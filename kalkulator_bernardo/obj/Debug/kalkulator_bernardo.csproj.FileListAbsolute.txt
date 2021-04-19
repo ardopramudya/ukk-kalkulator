@@ -1,0 +1,20 @@
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\bin\Debug\kalkulator_bernardo.exe.config
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\bin\Debug\kalkulator_bernardo.exe
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\bin\Debug\kalkulator_bernardo.pdb
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.csprojAssemblyReference.cache
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.Form1.resources
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.Properties.Resources.resources
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.csproj.GenerateResource.cache
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.csproj.CoreCompileInputs.cache
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.exe
+F:\visual studio\kalkulator_bernardo\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.pdb
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\bin\Debug\kalkulator_bernardo.exe.config
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\bin\Debug\kalkulator_bernardo.exe
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\bin\Debug\kalkulator_bernardo.pdb
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.csprojAssemblyReference.cache
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.Form1.resources
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.Properties.Resources.resources
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.csproj.GenerateResource.cache
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.csproj.CoreCompileInputs.cache
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.exe
+F:\ukk\kalkulator\kalkulator\kalkulator_bernardo\obj\Debug\kalkulator_bernardo.pdb
